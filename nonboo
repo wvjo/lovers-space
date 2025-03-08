@@ -1,10 +1,37 @@
-<html> 
-<head> <title> luvers space </title> </head> 
-<body>  <p align=center> 
-<font size="24"> <font color="cccccc"> our little world <br>
-<font size="18"> <font color="#cc9999"> ♡welcome to our little world♡ 
-<p> <p align="center"> first, let me spill what's on ma heart <br> if only i had 717 ways to tell u i LOVE YOU <p>
-<br> <img src="C:\Users\blue_\Desktop\pics\85418a69-584e-448f-8b8f-2e9fc2bbfeff.jpeg" align="middle"height= "400" width= "300"> us <img src= "C:\Users\blue_\Desktop\pics\71b5087c-6ee9-406f-ba87-9575b79da65f.jpeg" height= "400" width= "300"> 
-<p> <p align="center"> having u in ma life is a blessing & if u ever choose to share what's on ur mind, just know i'll always be here for u
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luvers Space</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #ccc;
+        }
+        h1 {
+            font-size: 24px;
+        }
+        p {
+            font-size: 18px;
+            color: #cc9999;
+        }
+        .image {
+            width: 300px;
+            height: 400px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Our Little World</h1>
+    <p>♡ Welcome to our little world ♡</p>
+    <p>First, let me spill what's on my heart <br> If only I had 717 ways to tell you I LOVE YOU</p>
+
+    <img src="https://imgur.com/a/BDSPIEG">
+    <img src="https://imgur.com/a/B3KvCUq">
+
+    <p>Having you in my life is a blessing, and if you ever choose to share what's on your mind, just know I'll always be here for you.</p>
 </body>
-</htm>
+</html>
